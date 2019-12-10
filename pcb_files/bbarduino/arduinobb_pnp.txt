@@ -1,0 +1,41 @@
+*Pick And Place List
+*Company=
+*Author=
+*eMail=
+*
+*Project=arduinobb
+*Date=17:37:40
+*CreatedBy=Fritzing 0.9.1b.11.19.8d2d5970658f0bed09c661c9ea9a515b5f40f44c
+*
+*
+*Coordinates in mm, always center of component
+*Origin 0/0=Lower left corner of PCB
+*Rotation in degree (0-360, math. pos.)
+*
+*No;Value;Package;X;Y;Rotation;Side;Name
+1;;;17.9594;-20.9345;0;Bottom;Via2
+2;;THT;50.2548;-9.156;0;Bottom;XTAL3
+3;22pF;200 mil [THT, multilayer];57.8307;-6.56725;90;Bottom;C11
+4;;THT;5.92836;-29.6017;0;Bottom;J14
+5;;[THT];28.7889;-3.75945;180;Bottom;S4
+6;;;28.401;-24.3917;0;Bottom;Via8
+7;;300 mil [THT];14.85;-21.4796;90;Bottom;D3
+8;;THT;29.9438;-14.3405;-90;Bottom;J10
+9;;;1.84701;-13.2448;0;Bottom;Via1
+10;47µF;200 mil [THT, electrolytic];17.57;-6.53;0;Bottom;C10
+11;;;26.1698;-12.003;0;Bottom;Via5
+12;;THT;51.4948;-32.4027;-90;Bottom;J12
+13;1µF;200 mil [THT, electrolytic];6.14003;-6.53;180;Bottom;C10
+14;;;38.8461;-22.6351;0;Bottom;Via9
+15;;;9.06879;-26.9551;0;Bottom;Via3
+16;;300 mil [THT];14.85;-21.4796;90;Bottom;D3
+17;;;41.3127;-16.4423;0;Bottom;Via4
+18;100nF;100 mil [THT, multilayer];19.6401;-14.3933;180;Bottom;C12
+19;;THT;29.9438;-32.2616;-90;Bottom;J13
+20;;dip;40.1038;-23.4348;-90;Bottom;U6
+21;;;38.9138;-29.9749;0;Bottom;Via6
+22;;THT;52.7891;-14.1929;-90;Bottom;J10
+23;22pF;200 mil [THT, multilayer];43.8441;-4.0566;-90;Bottom;C10
+24;1k;THT;17.9053;-24.5174;90;Bottom;R4
+25;5V;TO220 [THT];7.15603;-17.96;-90;Bottom;U5
+26;;THT;34.1204;-8.99549;-90;Bottom;ICSP
