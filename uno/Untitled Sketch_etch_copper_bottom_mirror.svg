@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns:svg="http://www.w3.org/2000/svg"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="240px" height="160px"
+	 viewBox="0 0 240 160" enable-background="new 0 0 240 160" xml:space="preserve">
+<g transform="matrix(-1, 0, 0, 1, 240, 0)">
+	<g>
+		<g transform="translate(26.9843,5.07087)">
+			<g id="copper0">
+				<circle id="connector1pad" fill="none" stroke="#000000" cx="151.384" cy="144" r="1.88"/>
+				<circle id="connector2pad" fill="none" stroke="#000000" cx="158.583" cy="144" r="1.88"/>
+				<circle id="connector3pad" fill="none" stroke="#000000" cx="165.786" cy="144" r="1.88"/>
+				<circle id="connector4pad" fill="none" stroke="#000000" cx="172.985" cy="144" r="1.88"/>
+				<circle id="connector5pad" fill="none" stroke="#000000" cx="180.185" cy="144" r="1.88"/>
+				<circle id="connector51pad" fill="none" stroke="#000000" cx="118.263" cy="7.2" r="1.88"/>
+				<circle id="connector52pad" fill="none" stroke="#000000" cx="111.065" cy="7.2" r="1.88"/>
+				<circle id="connector53pad" fill="none" stroke="#000000" cx="103.864" cy="7.2" r="1.88"/>
+				<circle id="connector54pad" fill="none" stroke="#000000" cx="96.664" cy="7.2" r="1.88"/>
+				<circle id="connector55pad" fill="none" stroke="#000000" cx="89.464" cy="7.2" r="1.88"/>
+				<circle id="connector56pad" fill="none" stroke="#000000" cx="82.264" cy="7.2" r="1.88"/>
+				<circle id="connector57pad" fill="none" stroke="#000000" cx="75.065" cy="7.2" r="1.88"/>
+				<circle id="connector58pad" fill="none" stroke="#000000" cx="67.865" cy="7.2" r="1.88"/>
+				<circle id="connector59pad" fill="none" stroke="#000000" cx="60.664" cy="7.2" r="1.88"/>
+				<circle id="connector60pad" fill="none" stroke="#000000" cx="53.463" cy="7.2" r="1.88"/>
+				<circle id="connector61pad" fill="none" stroke="#000000" cx="180.185" cy="7.2" r="1.88"/>
+				<circle id="connector62pad" fill="none" stroke="#000000" cx="172.985" cy="7.2" r="1.88"/>
+				<circle id="connector63pad" fill="none" stroke="#000000" cx="165.786" cy="7.2" r="1.88"/>
+				<circle id="connector64pad" fill="none" stroke="#000000" cx="158.583" cy="7.2" r="1.881"/>
+				<circle id="connector65pad" fill="none" stroke="#000000" cx="151.384" cy="7.2" r="1.88"/>
+				<circle id="connector66pad" fill="none" stroke="#000000" cx="144.185" cy="7.2" r="1.88"/>
+				<circle id="connector67pad" fill="none" stroke="#000000" cx="136.985" cy="7.2" r="1.88"/>
+				<circle id="connector68pad" fill="none" stroke="#000000" cx="129.784" cy="7.2" r="1.88"/>
+				<circle id="connector84pad" fill="none" stroke="#000000" cx="86.584" cy="144" r="1.88"/>
+				<circle id="connector91pin" fill="none" stroke="#000000" cx="79.384" cy="143.999" r="1.879"/>
+				<circle id="connector85pad" fill="none" stroke="#000000" cx="93.784" cy="143.999" r="1.879"/>
+				<circle id="connector86pad" fill="none" stroke="#000000" cx="100.985" cy="144" r="1.88"/>
+				<circle id="connector87pad" fill="none" stroke="#000000" cx="108.185" cy="144" r="1.88"/>
+				<circle id="connector88pad" fill="none" stroke="#000000" cx="115.384" cy="144" r="1.88"/>
+				<circle id="connector89pad" fill="none" stroke="#000000" cx="122.583" cy="144" r="1.88"/>
+				<circle id="connector90pad" fill="none" stroke="#000000" cx="129.784" cy="144" r="1.88"/>
+				<circle id="connector0pad" fill="none" stroke="#000000" cx="144.185" cy="144" r="1.88"/>
+			</g>
+		</g>
+	</g>
+</g>
+</svg>
