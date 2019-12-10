@@ -1,0 +1,1511 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.2.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns:svg="http://www.w3.org/2000/svg"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="283.5px" height="425.2px"
+	 viewBox="0 0 283.5 425.2" style="enable-background:new 0 0 283.5 425.2;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;stroke:#000000;stroke-width:0.25;}
+</style>
+<g transform="translate(283.465,0)">
+	<g transform="matrix(0,1,-1,0,0,0)">
+		<g id="board">
+			
+				<rect id="boardoutline" x="71.2" y="-70.6" transform="matrix(2.535182e-06 1 -1 2.535182e-06 354.3305 -70.8664)" class="st0" width="282.9" height="424.6"/>
+		</g>
+	</g>
+</g>
+<g transform="translate(63.3518,367.732)">
+	<g id="copper1">
+		<circle id="connector0pin" class="st0" cx="4.3" cy="4.3" r="2"/>
+	</g>
+</g>
+<g transform="translate(60.2574,207.175)">
+	<g transform="matrix(-1,0,0,-1,0,0)">
+		<g id="copper1_1_">
+			<circle id="connector7pin" class="st0" cx="16" cy="14.2" r="2.1"/>
+			<circle id="connector6pin" class="st0" cx="16" cy="21.4" r="2.1"/>
+			<circle id="connector5pin" class="st0" cx="16" cy="28.6" r="2.1"/>
+			<circle id="connector4pin" class="st0" cx="16" cy="35.8" r="2.1"/>
+			<circle id="connector0pin_1_" class="st0" cx="8.8" cy="14.2" r="2.1"/>
+			<circle id="connector1pin" class="st0" cx="8.8" cy="21.4" r="2.1"/>
+			<circle id="connector2pin" class="st0" cx="8.8" cy="28.6" r="2.1"/>
+			<circle id="connector3pin" class="st0" cx="8.8" cy="35.8" r="2.1"/>
+		</g>
+	</g>
+</g>
+<g transform="translate(146.801,207.175)">
+	<g transform="matrix(-1,0,0,-1,0,0)">
+		<g id="copper1_2_">
+			<circle id="connector7pin_1_" class="st0" cx="16" cy="14.2" r="2.1"/>
+			<circle id="connector6pin_1_" class="st0" cx="16" cy="21.4" r="2.1"/>
+			<circle id="connector5pin_1_" class="st0" cx="16" cy="28.6" r="2.1"/>
+			<circle id="connector4pin_1_" class="st0" cx="16" cy="35.8" r="2.1"/>
+			<circle id="connector0pin_2_" class="st0" cx="8.8" cy="14.2" r="2.1"/>
+			<circle id="connector1pin_1_" class="st0" cx="8.8" cy="21.4" r="2.1"/>
+			<circle id="connector2pin_1_" class="st0" cx="8.8" cy="28.6" r="2.1"/>
+			<circle id="connector3pin_1_" class="st0" cx="8.8" cy="35.8" r="2.1"/>
+		</g>
+	</g>
+</g>
+<g transform="translate(60.2574,154.975)">
+	<g transform="matrix(-1,0,0,-1,0,0)">
+		<g id="copper1_3_">
+			<circle id="connector7pin_2_" class="st0" cx="16" cy="14.2" r="2.1"/>
+			<circle id="connector6pin_2_" class="st0" cx="16" cy="21.4" r="2.1"/>
+			<circle id="connector5pin_2_" class="st0" cx="16" cy="28.6" r="2.1"/>
+			<circle id="connector4pin_2_" class="st0" cx="16" cy="35.8" r="2.1"/>
+			<circle id="connector0pin_3_" class="st0" cx="8.8" cy="14.2" r="2.1"/>
+			<circle id="connector1pin_2_" class="st0" cx="8.8" cy="21.4" r="2.1"/>
+			<circle id="connector2pin_2_" class="st0" cx="8.8" cy="28.6" r="2.1"/>
+			<circle id="connector3pin_2_" class="st0" cx="8.8" cy="35.8" r="2.1"/>
+		</g>
+	</g>
+</g>
+<g transform="translate(146.658,154.975)">
+	<g transform="matrix(-1,0,0,-1,0,0)">
+		<g id="copper1_4_">
+			<circle id="connector7pin_3_" class="st0" cx="16" cy="14.2" r="2.1"/>
+			<circle id="connector6pin_3_" class="st0" cx="16" cy="21.4" r="2.1"/>
+			<circle id="connector5pin_3_" class="st0" cx="16" cy="28.6" r="2.1"/>
+			<circle id="connector4pin_3_" class="st0" cx="16" cy="35.8" r="2.1"/>
+			<circle id="connector0pin_4_" class="st0" cx="8.8" cy="14.2" r="2.1"/>
+			<circle id="connector1pin_3_" class="st0" cx="8.8" cy="21.4" r="2.1"/>
+			<circle id="connector2pin_3_" class="st0" cx="8.8" cy="28.6" r="2.1"/>
+			<circle id="connector3pin_3_" class="st0" cx="8.8" cy="35.8" r="2.1"/>
+		</g>
+	</g>
+</g>
+<g transform="translate(146.658,103.675)">
+	<g transform="matrix(-1,0,0,-1,0,0)">
+		<g id="copper1_5_">
+			<circle id="connector7pin_4_" class="st0" cx="16" cy="14.2" r="2.1"/>
+			<circle id="connector6pin_4_" class="st0" cx="16" cy="21.4" r="2.1"/>
+			<circle id="connector5pin_4_" class="st0" cx="16" cy="28.6" r="2.1"/>
+			<circle id="connector4pin_4_" class="st0" cx="16" cy="35.8" r="2.1"/>
+			<circle id="connector0pin_5_" class="st0" cx="8.8" cy="14.2" r="2.1"/>
+			<circle id="connector1pin_4_" class="st0" cx="8.8" cy="21.4" r="2.1"/>
+			<circle id="connector2pin_4_" class="st0" cx="8.8" cy="28.6" r="2.1"/>
+			<circle id="connector3pin_4_" class="st0" cx="8.8" cy="35.8" r="2.1"/>
+		</g>
+	</g>
+</g>
+<g transform="translate(60.2582,103.675)">
+	<g transform="matrix(-1,0,0,-1,0,0)">
+		<g id="copper1_6_">
+			<circle id="connector7pin_5_" class="st0" cx="16" cy="14.2" r="2.1"/>
+			<circle id="connector6pin_5_" class="st0" cx="16" cy="21.4" r="2.1"/>
+			<circle id="connector5pin_5_" class="st0" cx="16" cy="28.6" r="2.1"/>
+			<circle id="connector4pin_5_" class="st0" cx="16" cy="35.8" r="2.1"/>
+			<circle id="connector0pin_6_" class="st0" cx="8.8" cy="14.2" r="2.1"/>
+			<circle id="connector1pin_5_" class="st0" cx="8.8" cy="21.4" r="2.1"/>
+			<circle id="connector2pin_5_" class="st0" cx="8.8" cy="28.6" r="2.1"/>
+			<circle id="connector3pin_5_" class="st0" cx="8.8" cy="35.8" r="2.1"/>
+		</g>
+	</g>
+</g>
+<g transform="translate(146.801,53.2746)">
+	<g transform="matrix(-1,0,0,-1,0,0)">
+		<g id="copper1_7_">
+			<circle id="connector7pin_6_" class="st0" cx="16" cy="14.2" r="2.1"/>
+			<circle id="connector6pin_6_" class="st0" cx="16" cy="21.4" r="2.1"/>
+			<circle id="connector5pin_6_" class="st0" cx="16" cy="28.6" r="2.1"/>
+			<circle id="connector4pin_6_" class="st0" cx="16" cy="35.8" r="2.1"/>
+			<circle id="connector0pin_7_" class="st0" cx="8.8" cy="14.2" r="2.1"/>
+			<circle id="connector1pin_6_" class="st0" cx="8.8" cy="21.4" r="2.1"/>
+			<circle id="connector2pin_6_" class="st0" cx="8.8" cy="28.6" r="2.1"/>
+			<circle id="connector3pin_6_" class="st0" cx="8.8" cy="35.8" r="2.1"/>
+		</g>
+	</g>
+</g>
+<g transform="translate(122.394,314.656)">
+	<g transform="matrix(0,1,-1,0,0,0)">
+		<g id="copper1_8_">
+			<circle id="connector7pin_7_" class="st0" cx="16" cy="14.2" r="2.1"/>
+			<circle id="connector6pin_7_" class="st0" cx="16" cy="21.4" r="2.1"/>
+			<circle id="connector5pin_7_" class="st0" cx="16" cy="28.6" r="2.1"/>
+			<circle id="connector4pin_7_" class="st0" cx="16" cy="35.8" r="2.1"/>
+			<circle id="connector0pin_8_" class="st0" cx="8.8" cy="14.2" r="2.1"/>
+			<circle id="connector1pin_7_" class="st0" cx="8.8" cy="21.4" r="2.1"/>
+			<circle id="connector2pin_7_" class="st0" cx="8.8" cy="28.6" r="2.1"/>
+			<circle id="connector3pin_7_" class="st0" cx="8.8" cy="35.8" r="2.1"/>
+		</g>
+	</g>
+</g>
+<g transform="translate(122.394,287.656)">
+	<g transform="matrix(0,1,-1,0,0,0)">
+		<g id="copper1_9_">
+			<circle id="connector7pin_8_" class="st0" cx="16" cy="14.2" r="2.1"/>
+			<circle id="connector6pin_8_" class="st0" cx="16" cy="21.4" r="2.1"/>
+			<circle id="connector5pin_8_" class="st0" cx="16" cy="28.6" r="2.1"/>
+			<circle id="connector4pin_8_" class="st0" cx="16" cy="35.8" r="2.1"/>
+			<circle id="connector0pin_9_" class="st0" cx="8.8" cy="14.2" r="2.1"/>
+			<circle id="connector1pin_8_" class="st0" cx="8.8" cy="21.4" r="2.1"/>
+			<circle id="connector2pin_8_" class="st0" cx="8.8" cy="28.6" r="2.1"/>
+			<circle id="connector3pin_8_" class="st0" cx="8.8" cy="35.8" r="2.1"/>
+		</g>
+	</g>
+</g>
+<g transform="translate(122.394,260.656)">
+	<g transform="matrix(0,1,-1,0,0,0)">
+		<g id="copper1_10_">
+			<circle id="connector7pin_9_" class="st0" cx="16" cy="14.2" r="2.1"/>
+			<circle id="connector6pin_9_" class="st0" cx="16" cy="21.4" r="2.1"/>
+			<circle id="connector5pin_9_" class="st0" cx="16" cy="28.6" r="2.1"/>
+			<circle id="connector4pin_9_" class="st0" cx="16" cy="35.8" r="2.1"/>
+			<circle id="connector0pin_10_" class="st0" cx="8.8" cy="14.2" r="2.1"/>
+			<circle id="connector1pin_9_" class="st0" cx="8.8" cy="21.4" r="2.1"/>
+			<circle id="connector2pin_9_" class="st0" cx="8.8" cy="28.6" r="2.1"/>
+			<circle id="connector3pin_9_" class="st0" cx="8.8" cy="35.8" r="2.1"/>
+		</g>
+	</g>
+</g>
+<g transform="translate(122.394,233.656)">
+	<g transform="matrix(0,1,-1,0,0,0)">
+		<g id="copper1_11_">
+			<circle id="connector7pin_10_" class="st0" cx="16" cy="14.2" r="2.1"/>
+			<circle id="connector6pin_10_" class="st0" cx="16" cy="21.4" r="2.1"/>
+			<circle id="connector5pin_10_" class="st0" cx="16" cy="28.6" r="2.1"/>
+			<circle id="connector4pin_10_" class="st0" cx="16" cy="35.8" r="2.1"/>
+			<circle id="connector0pin_11_" class="st0" cx="8.8" cy="14.2" r="2.1"/>
+			<circle id="connector1pin_10_" class="st0" cx="8.8" cy="21.4" r="2.1"/>
+			<circle id="connector2pin_10_" class="st0" cx="8.8" cy="28.6" r="2.1"/>
+			<circle id="connector3pin_10_" class="st0" cx="8.8" cy="35.8" r="2.1"/>
+		</g>
+	</g>
+</g>
+<g transform="translate(71.0942,314.656)">
+	<g transform="matrix(0,1,-1,0,0,0)">
+		<g id="copper1_12_">
+			<circle id="connector7pin_11_" class="st0" cx="16" cy="14.2" r="2.1"/>
+			<circle id="connector6pin_11_" class="st0" cx="16" cy="21.4" r="2.1"/>
+			<circle id="connector5pin_11_" class="st0" cx="16" cy="28.6" r="2.1"/>
+			<circle id="connector4pin_11_" class="st0" cx="16" cy="35.8" r="2.1"/>
+			<circle id="connector0pin_12_" class="st0" cx="8.8" cy="14.2" r="2.1"/>
+			<circle id="connector1pin_11_" class="st0" cx="8.8" cy="21.4" r="2.1"/>
+			<circle id="connector2pin_11_" class="st0" cx="8.8" cy="28.6" r="2.1"/>
+			<circle id="connector3pin_11_" class="st0" cx="8.8" cy="35.8" r="2.1"/>
+		</g>
+	</g>
+</g>
+<g transform="translate(71.0942,287.656)">
+	<g transform="matrix(0,1,-1,0,0,0)">
+		<g id="copper1_13_">
+			<circle id="connector7pin_12_" class="st0" cx="16" cy="14.2" r="2.1"/>
+			<circle id="connector6pin_12_" class="st0" cx="16" cy="21.4" r="2.1"/>
+			<circle id="connector5pin_12_" class="st0" cx="16" cy="28.6" r="2.1"/>
+			<circle id="connector4pin_12_" class="st0" cx="16" cy="35.8" r="2.1"/>
+			<circle id="connector0pin_13_" class="st0" cx="8.8" cy="14.2" r="2.1"/>
+			<circle id="connector1pin_12_" class="st0" cx="8.8" cy="21.4" r="2.1"/>
+			<circle id="connector2pin_12_" class="st0" cx="8.8" cy="28.6" r="2.1"/>
+			<circle id="connector3pin_12_" class="st0" cx="8.8" cy="35.8" r="2.1"/>
+		</g>
+	</g>
+</g>
+<g transform="translate(71.0942,260.656)">
+	<g transform="matrix(0,1,-1,0,0,0)">
+		<g id="copper1_14_">
+			<circle id="connector7pin_13_" class="st0" cx="16" cy="14.2" r="2.1"/>
+			<circle id="connector6pin_13_" class="st0" cx="16" cy="21.4" r="2.1"/>
+			<circle id="connector5pin_13_" class="st0" cx="16" cy="28.6" r="2.1"/>
+			<circle id="connector4pin_13_" class="st0" cx="16" cy="35.8" r="2.1"/>
+			<circle id="connector0pin_14_" class="st0" cx="8.8" cy="14.2" r="2.1"/>
+			<circle id="connector1pin_13_" class="st0" cx="8.8" cy="21.4" r="2.1"/>
+			<circle id="connector2pin_13_" class="st0" cx="8.8" cy="28.6" r="2.1"/>
+			<circle id="connector3pin_13_" class="st0" cx="8.8" cy="35.8" r="2.1"/>
+		</g>
+	</g>
+</g>
+<g transform="translate(71.0942,233.656)">
+	<g transform="matrix(0,1,-1,0,0,0)">
+		<g id="copper1_15_">
+			<circle id="connector7pin_14_" class="st0" cx="16" cy="14.2" r="2.1"/>
+			<circle id="connector6pin_14_" class="st0" cx="16" cy="21.4" r="2.1"/>
+			<circle id="connector5pin_14_" class="st0" cx="16" cy="28.6" r="2.1"/>
+			<circle id="connector4pin_14_" class="st0" cx="16" cy="35.8" r="2.1"/>
+			<circle id="connector0pin_15_" class="st0" cx="8.8" cy="14.2" r="2.1"/>
+			<circle id="connector1pin_14_" class="st0" cx="8.8" cy="21.4" r="2.1"/>
+			<circle id="connector2pin_14_" class="st0" cx="8.8" cy="28.6" r="2.1"/>
+			<circle id="connector3pin_14_" class="st0" cx="8.8" cy="35.8" r="2.1"/>
+		</g>
+	</g>
+</g>
+<g transform="translate(60.2582,53.2746)">
+	<g transform="matrix(-1,0,0,-1,0,0)">
+		<g id="copper1_16_">
+			<circle id="connector7pin_15_" class="st0" cx="16" cy="14.2" r="2.1"/>
+			<circle id="connector6pin_15_" class="st0" cx="16" cy="21.4" r="2.1"/>
+			<circle id="connector5pin_15_" class="st0" cx="16" cy="28.6" r="2.1"/>
+			<circle id="connector4pin_15_" class="st0" cx="16" cy="35.8" r="2.1"/>
+			<circle id="connector0pin_16_" class="st0" cx="8.8" cy="14.2" r="2.1"/>
+			<circle id="connector1pin_15_" class="st0" cx="8.8" cy="21.4" r="2.1"/>
+			<circle id="connector2pin_15_" class="st0" cx="8.8" cy="28.6" r="2.1"/>
+			<circle id="connector3pin_15_" class="st0" cx="8.8" cy="35.8" r="2.1"/>
+		</g>
+	</g>
+</g>
+<g transform="translate(183.952,167.932)">
+	<g id="copper1_17_">
+		<circle id="connector0pin_17_" class="st0" cx="4.3" cy="4.3" r="2"/>
+	</g>
+</g>
+<g transform="translate(174.951,211.132)">
+	<g id="copper1_18_">
+		<circle id="connector0pin_18_" class="st0" cx="4.3" cy="4.3" r="2"/>
+	</g>
+</g>
+<g transform="translate(80.4514,210.232)">
+	<g id="copper1_19_">
+		<circle id="connector0pin_19_" class="st0" cx="4.3" cy="4.3" r="2"/>
+	</g>
+</g>
+<g transform="translate(113.751,222.832)">
+	<g id="copper1_20_">
+		<circle id="connector0pin_20_" class="st0" cx="4.3" cy="4.3" r="2"/>
+	</g>
+</g>
+<g transform="translate(125.452,345.232)">
+	<g id="copper1_21_">
+		<circle id="connector0pin_21_" class="st0" cx="4.3" cy="4.3" r="2"/>
+	</g>
+</g>
+<g transform="translate(120.052,338.932)">
+	<g id="copper1_22_">
+		<circle id="connector0pin_22_" class="st0" cx="4.3" cy="4.3" r="2"/>
+	</g>
+</g>
+<g transform="translate(111.952,346.132)">
+	<g id="copper1_23_">
+		<circle id="connector0pin_23_" class="st0" cx="4.3" cy="4.3" r="2"/>
+	</g>
+</g>
+<g transform="translate(103.852,351.532)">
+	<g id="copper1_24_">
+		<circle id="connector0pin_24_" class="st0" cx="4.3" cy="4.3" r="2"/>
+	</g>
+</g>
+<g transform="translate(52.5518,341.632)">
+	<g id="copper1_25_">
+		<circle id="connector0pin_25_" class="st0" cx="4.3" cy="4.3" r="2"/>
+	</g>
+</g>
+<g transform="translate(43.5518,346.132)">
+	<g id="copper1_26_">
+		<circle id="connector0pin_26_" class="st0" cx="4.3" cy="4.3" r="2"/>
+	</g>
+</g>
+<g transform="translate(17.4518,337.132)">
+	<g id="copper1_27_">
+		<circle id="connector0pin_27_" class="st0" cx="4.3" cy="4.3" r="2"/>
+	</g>
+</g>
+<g transform="translate(12.9518,319.132)">
+	<g id="copper1_28_">
+		<circle id="connector0pin_28_" class="st0" cx="4.3" cy="4.3" r="2"/>
+	</g>
+</g>
+<g transform="translate(210.052,167.932)">
+	<g id="copper1_29_">
+		<circle id="connector0pin_29_" class="st0" cx="4.3" cy="4.3" r="2"/>
+	</g>
+</g>
+<g transform="translate(214.552,211.132)">
+	<g id="copper1_30_">
+		<circle id="connector0pin_30_" class="st0" cx="4.3" cy="4.3" r="2"/>
+	</g>
+</g>
+<g transform="translate(154.067,186.463)">
+	<g transform="matrix(0,1,-1,0,0,0)">
+		<g id="copper1_31_">
+			<g id="copper0">
+				<circle id="connector1pad" class="st0" cx="151.4" cy="144" r="1.9"/>
+				<circle id="connector2pad" class="st0" cx="158.6" cy="144" r="1.9"/>
+				<circle id="connector3pad" class="st0" cx="165.8" cy="144" r="1.9"/>
+				<circle id="connector4pad" class="st0" cx="173" cy="144" r="1.9"/>
+				<circle id="connector5pad" class="st0" cx="180.2" cy="144" r="1.9"/>
+				<circle id="connector51pad" class="st0" cx="118.3" cy="7.2" r="1.9"/>
+				<circle id="connector52pad" class="st0" cx="111.1" cy="7.2" r="1.9"/>
+				<circle id="connector53pad" class="st0" cx="103.9" cy="7.2" r="1.9"/>
+				<circle id="connector54pad" class="st0" cx="96.7" cy="7.2" r="1.9"/>
+				<circle id="connector55pad" class="st0" cx="89.5" cy="7.2" r="1.9"/>
+				<circle id="connector56pad" class="st0" cx="82.3" cy="7.2" r="1.9"/>
+				<circle id="connector57pad" class="st0" cx="75.1" cy="7.2" r="1.9"/>
+				<circle id="connector58pad" class="st0" cx="67.9" cy="7.2" r="1.9"/>
+				<circle id="connector59pad" class="st0" cx="60.7" cy="7.2" r="1.9"/>
+				<circle id="connector60pad" class="st0" cx="53.5" cy="7.2" r="1.9"/>
+				<circle id="connector61pad" class="st0" cx="180.2" cy="7.2" r="1.9"/>
+				<circle id="connector62pad" class="st0" cx="173" cy="7.2" r="1.9"/>
+				<circle id="connector63pad" class="st0" cx="165.8" cy="7.2" r="1.9"/>
+				<circle id="connector64pad" class="st0" cx="158.6" cy="7.2" r="1.9"/>
+				<circle id="connector65pad" class="st0" cx="151.4" cy="7.2" r="1.9"/>
+				<circle id="connector66pad" class="st0" cx="144.2" cy="7.2" r="1.9"/>
+				<circle id="connector67pad" class="st0" cx="137" cy="7.2" r="1.9"/>
+				<circle id="connector68pad" class="st0" cx="129.8" cy="7.2" r="1.9"/>
+				<circle id="connector84pad" class="st0" cx="86.6" cy="144" r="1.9"/>
+				<circle id="connector91pin" class="st0" cx="79.4" cy="144" r="1.9"/>
+				<circle id="connector85pad" class="st0" cx="93.8" cy="144" r="1.9"/>
+				<circle id="connector86pad" class="st0" cx="101" cy="144" r="1.9"/>
+				<circle id="connector87pad" class="st0" cx="108.2" cy="144" r="1.9"/>
+				<circle id="connector88pad" class="st0" cx="115.4" cy="144" r="1.9"/>
+				<circle id="connector89pad" class="st0" cx="122.6" cy="144" r="1.9"/>
+				<circle id="connector90pad" class="st0" cx="129.8" cy="144" r="1.9"/>
+				<circle id="connector0pad" class="st0" cx="144.2" cy="144" r="1.9"/>
+			</g>
+		</g>
+	</g>
+</g>
+<g transform="translate(223.367,323.951)">
+	<g id="copper1_32_">
+		<circle id="connector0pin_31_" class="st0" cx="2.7" cy="3.1" r="2"/>
+		<circle id="connector1pin_16_" class="st0" cx="31.5" cy="3.1" r="2"/>
+	</g>
+</g>
+<g transform="translate(99.563,389.147)">
+	<g transform="matrix(0,1,-1,0,0,0)">
+		<g id="copper1_33_">
+			<circle id="connector0pin_32_" class="st0" cx="2.7" cy="3.1" r="2"/>
+			<circle id="connector1pin_17_" class="st0" cx="31.5" cy="3.1" r="2"/>
+		</g>
+	</g>
+</g>
+<g transform="translate(124.763,389.147)">
+	<g transform="matrix(0,1,-1,0,0,0)">
+		<g id="copper1_34_">
+			<circle id="connector0pin_33_" class="st0" cx="2.7" cy="3.1" r="2"/>
+			<circle id="connector1pin_18_" class="st0" cx="31.5" cy="3.1" r="2"/>
+		</g>
+	</g>
+</g>
+<g transform="translate(225.563,389.147)">
+	<g transform="matrix(0,1,-1,0,0,0)">
+		<g id="copper1_35_">
+			<circle id="connector0pin_34_" class="st0" cx="2.7" cy="3.1" r="2"/>
+			<circle id="connector1pin_19_" class="st0" cx="31.5" cy="3.1" r="2"/>
+		</g>
+	</g>
+</g>
+<g transform="translate(172.463,389.147)">
+	<g transform="matrix(0,1,-1,0,0,0)">
+		<g id="copper1_36_">
+			<circle id="connector0pin_35_" class="st0" cx="2.7" cy="3.1" r="2"/>
+			<circle id="connector1pin_20_" class="st0" cx="31.5" cy="3.1" r="2"/>
+		</g>
+	</g>
+</g>
+<g transform="translate(198.563,389.147)">
+	<g transform="matrix(0,1,-1,0,0,0)">
+		<g id="copper1_37_">
+			<circle id="connector0pin_36_" class="st0" cx="2.7" cy="3.1" r="2"/>
+			<circle id="connector1pin_21_" class="st0" cx="31.5" cy="3.1" r="2"/>
+		</g>
+	</g>
+</g>
+<g transform="translate(250.763,389.147)">
+	<g transform="matrix(0,1,-1,0,0,0)">
+		<g id="copper1_38_">
+			<circle id="connector0pin_37_" class="st0" cx="2.7" cy="3.1" r="2"/>
+			<circle id="connector1pin_22_" class="st0" cx="31.5" cy="3.1" r="2"/>
+		</g>
+	</g>
+</g>
+<g transform="translate(279.563,389.147)">
+	<g transform="matrix(0,1,-1,0,0,0)">
+		<g id="copper1_39_">
+			<circle id="connector0pin_38_" class="st0" cx="2.7" cy="3.1" r="2"/>
+			<circle id="connector1pin_23_" class="st0" cx="31.5" cy="3.1" r="2"/>
+		</g>
+	</g>
+</g>
+<g transform="translate(148.163,389.147)">
+	<g transform="matrix(0,1,-1,0,0,0)">
+		<g id="copper1_40_">
+			<circle id="connector0pin_39_" class="st0" cx="2.7" cy="3.1" r="2"/>
+			<circle id="connector1pin_24_" class="st0" cx="31.5" cy="3.1" r="2"/>
+		</g>
+	</g>
+</g>
+<g transform="translate(223.367,331.151)">
+	<g id="copper1_41_">
+		<circle id="connector0pin_40_" class="st0" cx="2.7" cy="3.1" r="2"/>
+		<circle id="connector1pin_25_" class="st0" cx="31.5" cy="3.1" r="2"/>
+	</g>
+</g>
+<g transform="translate(223.367,280.751)">
+	<g id="copper1_42_">
+		<circle id="connector0pin_41_" class="st0" cx="2.7" cy="3.1" r="2"/>
+		<circle id="connector1pin_26_" class="st0" cx="31.5" cy="3.1" r="2"/>
+	</g>
+</g>
+<g transform="translate(223.367,287.951)">
+	<g id="copper1_43_">
+		<circle id="connector0pin_42_" class="st0" cx="2.7" cy="3.1" r="2"/>
+		<circle id="connector1pin_27_" class="st0" cx="31.5" cy="3.1" r="2"/>
+	</g>
+</g>
+<g transform="translate(223.367,237.551)">
+	<g id="copper1_44_">
+		<circle id="connector0pin_43_" class="st0" cx="2.7" cy="3.1" r="2"/>
+		<circle id="connector1pin_28_" class="st0" cx="31.5" cy="3.1" r="2"/>
+	</g>
+</g>
+<g transform="translate(223.367,244.751)">
+	<g id="copper1_45_">
+		<circle id="connector0pin_44_" class="st0" cx="2.7" cy="3.1" r="2"/>
+		<circle id="connector1pin_29_" class="st0" cx="31.5" cy="3.1" r="2"/>
+	</g>
+</g>
+<g transform="translate(223.367,194.351)">
+	<g id="copper1_46_">
+		<circle id="connector0pin_45_" class="st0" cx="2.7" cy="3.1" r="2"/>
+		<circle id="connector1pin_30_" class="st0" cx="31.5" cy="3.1" r="2"/>
+	</g>
+</g>
+<g transform="translate(223.367,201.551)">
+	<g id="copper1_47_">
+		<circle id="connector0pin_46_" class="st0" cx="2.7" cy="3.1" r="2"/>
+		<circle id="connector1pin_31_" class="st0" cx="31.5" cy="3.1" r="2"/>
+	</g>
+</g>
+<g transform="translate(223.367,151.151)">
+	<g id="copper1_48_">
+		<circle id="connector0pin_47_" class="st0" cx="2.7" cy="3.1" r="2"/>
+		<circle id="connector1pin_32_" class="st0" cx="31.5" cy="3.1" r="2"/>
+	</g>
+</g>
+<g transform="translate(223.367,158.351)">
+	<g id="copper1_49_">
+		<circle id="connector0pin_48_" class="st0" cx="2.7" cy="3.1" r="2"/>
+		<circle id="connector1pin_33_" class="st0" cx="31.5" cy="3.1" r="2"/>
+	</g>
+</g>
+<g transform="translate(223.367,107.951)">
+	<g id="copper1_50_">
+		<circle id="connector0pin_49_" class="st0" cx="2.7" cy="3.1" r="2"/>
+		<circle id="connector1pin_34_" class="st0" cx="31.5" cy="3.1" r="2"/>
+	</g>
+</g>
+<g transform="translate(223.367,115.151)">
+	<g id="copper1_51_">
+		<circle id="connector0pin_50_" class="st0" cx="2.7" cy="3.1" r="2"/>
+		<circle id="connector1pin_35_" class="st0" cx="31.5" cy="3.1" r="2"/>
+	</g>
+</g>
+<g transform="translate(223.367,64.7514)">
+	<g id="copper1_52_">
+		<circle id="connector0pin_51_" class="st0" cx="2.7" cy="3.1" r="2"/>
+		<circle id="connector1pin_36_" class="st0" cx="31.5" cy="3.1" r="2"/>
+	</g>
+</g>
+<g transform="translate(223.367,71.9514)">
+	<g id="copper1_53_">
+		<circle id="connector0pin_52_" class="st0" cx="2.7" cy="3.1" r="2"/>
+		<circle id="connector1pin_37_" class="st0" cx="31.5" cy="3.1" r="2"/>
+	</g>
+</g>
+<g transform="translate(223.367,28.7514)">
+	<g id="copper1_54_">
+		<circle id="connector0pin_53_" class="st0" cx="2.7" cy="3.1" r="2"/>
+		<circle id="connector1pin_38_" class="st0" cx="31.5" cy="3.1" r="2"/>
+	</g>
+</g>
+<g transform="translate(223.367,21.5514)">
+	<g id="copper1_55_">
+		<circle id="connector0pin_54_" class="st0" cx="2.7" cy="3.1" r="2"/>
+		<circle id="connector1pin_39_" class="st0" cx="31.5" cy="3.1" r="2"/>
+	</g>
+</g>
+<g transform="translate(276.467,394.007)">
+	<g transform="matrix(0,1,-1,0,0,0)">
+		<g id="copper1_56_">
+			<g id="copper0_1_">
+				<circle id="connector0pad_1_" class="st0" cx="8.6" cy="14.4" r="2.2"/>
+				<circle id="connector1pad_1_" class="st0" cx="15.8" cy="14.4" r="2.2"/>
+				<circle id="connector2pad_1_" class="st0" cx="23" cy="14.4" r="2.2"/>
+			</g>
+		</g>
+	</g>
+</g>
+<g transform="translate(249.467,394.007)">
+	<g transform="matrix(0,1,-1,0,0,0)">
+		<g id="copper1_57_">
+			<g id="copper0_2_">
+				<circle id="connector0pad_2_" class="st0" cx="8.6" cy="14.4" r="2.2"/>
+				<circle id="connector1pad_2_" class="st0" cx="15.8" cy="14.4" r="2.2"/>
+				<circle id="connector2pad_2_" class="st0" cx="23" cy="14.4" r="2.2"/>
+			</g>
+		</g>
+	</g>
+</g>
+<g transform="translate(221.567,394.007)">
+	<g transform="matrix(0,1,-1,0,0,0)">
+		<g id="copper1_58_">
+			<g id="copper0_3_">
+				<circle id="connector0pad_3_" class="st0" cx="8.6" cy="14.4" r="2.2"/>
+				<circle id="connector1pad_3_" class="st0" cx="15.8" cy="14.4" r="2.2"/>
+				<circle id="connector2pad_3_" class="st0" cx="23" cy="14.4" r="2.2"/>
+			</g>
+		</g>
+	</g>
+</g>
+<g transform="translate(170.267,394.007)">
+	<g transform="matrix(0,1,-1,0,0,0)">
+		<g id="copper1_59_">
+			<g id="copper0_4_">
+				<circle id="connector0pad_4_" class="st0" cx="8.6" cy="14.4" r="2.2"/>
+				<circle id="connector1pad_4_" class="st0" cx="15.8" cy="14.4" r="2.2"/>
+				<circle id="connector2pad_4_" class="st0" cx="23" cy="14.4" r="2.2"/>
+			</g>
+		</g>
+	</g>
+</g>
+<g transform="translate(195.467,394.007)">
+	<g transform="matrix(0,1,-1,0,0,0)">
+		<g id="copper1_60_">
+			<g id="copper0_5_">
+				<circle id="connector0pad_5_" class="st0" cx="8.6" cy="14.4" r="2.2"/>
+				<circle id="connector1pad_5_" class="st0" cx="15.8" cy="14.4" r="2.2"/>
+				<circle id="connector2pad_5_" class="st0" cx="23" cy="14.4" r="2.2"/>
+			</g>
+		</g>
+	</g>
+</g>
+<g transform="translate(146.867,394.007)">
+	<g transform="matrix(0,1,-1,0,0,0)">
+		<g id="copper1_61_">
+			<g id="copper0_6_">
+				<circle id="connector0pad_6_" class="st0" cx="8.6" cy="14.4" r="2.2"/>
+				<circle id="connector1pad_6_" class="st0" cx="15.8" cy="14.4" r="2.2"/>
+				<circle id="connector2pad_6_" class="st0" cx="23" cy="14.4" r="2.2"/>
+			</g>
+		</g>
+	</g>
+</g>
+<g transform="translate(123.467,394.007)">
+	<g transform="matrix(0,1,-1,0,0,0)">
+		<g id="copper1_62_">
+			<g id="copper0_7_">
+				<circle id="connector0pad_7_" class="st0" cx="8.6" cy="14.4" r="2.2"/>
+				<circle id="connector1pad_7_" class="st0" cx="15.8" cy="14.4" r="2.2"/>
+				<circle id="connector2pad_7_" class="st0" cx="23" cy="14.4" r="2.2"/>
+			</g>
+		</g>
+	</g>
+</g>
+<g transform="translate(98.267,394.907)">
+	<g transform="matrix(0,1,-1,0,0,0)">
+		<g id="copper1_63_">
+			<g id="copper0_8_">
+				<circle id="connector0pad_8_" class="st0" cx="8.6" cy="14.4" r="2.2"/>
+				<circle id="connector1pad_8_" class="st0" cx="15.8" cy="14.4" r="2.2"/>
+				<circle id="connector2pad_8_" class="st0" cx="23" cy="14.4" r="2.2"/>
+			</g>
+		</g>
+	</g>
+</g>
+<g transform="translate(270.707,327.047)">
+	<g transform="matrix(-1,0,0,-1,0,0)">
+		<g id="copper1_64_">
+			<g id="copper0_9_">
+				<circle id="connector0pad_9_" class="st0" cx="8.6" cy="14.4" r="2.2"/>
+				<circle id="connector1pad_9_" class="st0" cx="15.8" cy="14.4" r="2.2"/>
+				<circle id="connector2pad_9_" class="st0" cx="23" cy="14.4" r="2.2"/>
+			</g>
+		</g>
+	</g>
+</g>
+<g transform="translate(270.707,283.847)">
+	<g transform="matrix(-1,0,0,-1,0,0)">
+		<g id="copper1_65_">
+			<g id="copper0_10_">
+				<circle id="connector0pad_10_" class="st0" cx="8.6" cy="14.4" r="2.2"/>
+				<circle id="connector1pad_10_" class="st0" cx="15.8" cy="14.4" r="2.2"/>
+				<circle id="connector2pad_10_" class="st0" cx="23" cy="14.4" r="2.2"/>
+			</g>
+		</g>
+	</g>
+</g>
+<g transform="translate(270.707,240.647)">
+	<g transform="matrix(-1,0,0,-1,0,0)">
+		<g id="copper1_66_">
+			<g id="copper0_11_">
+				<circle id="connector0pad_11_" class="st0" cx="8.6" cy="14.4" r="2.2"/>
+				<circle id="connector1pad_11_" class="st0" cx="15.8" cy="14.4" r="2.2"/>
+				<circle id="connector2pad_11_" class="st0" cx="23" cy="14.4" r="2.2"/>
+			</g>
+		</g>
+	</g>
+</g>
+<g transform="translate(270.707,197.447)">
+	<g transform="matrix(-1,0,0,-1,0,0)">
+		<g id="copper1_67_">
+			<g id="copper0_12_">
+				<circle id="connector0pad_12_" class="st0" cx="8.6" cy="14.4" r="2.2"/>
+				<circle id="connector1pad_12_" class="st0" cx="15.8" cy="14.4" r="2.2"/>
+				<circle id="connector2pad_12_" class="st0" cx="23" cy="14.4" r="2.2"/>
+			</g>
+		</g>
+	</g>
+</g>
+<g transform="translate(270.707,154.247)">
+	<g transform="matrix(-1,0,0,-1,0,0)">
+		<g id="copper1_68_">
+			<g id="copper0_13_">
+				<circle id="connector0pad_13_" class="st0" cx="8.6" cy="14.4" r="2.2"/>
+				<circle id="connector1pad_13_" class="st0" cx="15.8" cy="14.4" r="2.2"/>
+				<circle id="connector2pad_13_" class="st0" cx="23" cy="14.4" r="2.2"/>
+			</g>
+		</g>
+	</g>
+</g>
+<g transform="translate(270.707,111.047)">
+	<g transform="matrix(-1,0,0,-1,0,0)">
+		<g id="copper1_69_">
+			<g id="copper0_14_">
+				<circle id="connector0pad_14_" class="st0" cx="8.6" cy="14.4" r="2.2"/>
+				<circle id="connector1pad_14_" class="st0" cx="15.8" cy="14.4" r="2.2"/>
+				<circle id="connector2pad_14_" class="st0" cx="23" cy="14.4" r="2.2"/>
+			</g>
+		</g>
+	</g>
+</g>
+<g transform="translate(270.707,67.8474)">
+	<g transform="matrix(-1,0,0,-1,0,0)">
+		<g id="copper1_70_">
+			<g id="copper0_15_">
+				<circle id="connector0pad_15_" class="st0" cx="8.6" cy="14.4" r="2.2"/>
+				<circle id="connector1pad_15_" class="st0" cx="15.8" cy="14.4" r="2.2"/>
+				<circle id="connector2pad_15_" class="st0" cx="23" cy="14.4" r="2.2"/>
+			</g>
+		</g>
+	</g>
+</g>
+<g transform="translate(270.707,24.6474)">
+	<g transform="matrix(-1,0,0,-1,0,0)">
+		<g id="copper1_71_">
+			<g id="copper0_16_">
+				<circle id="connector0pad_16_" class="st0" cx="8.6" cy="14.4" r="2.2"/>
+				<circle id="connector1pad_16_" class="st0" cx="15.8" cy="14.4" r="2.2"/>
+				<circle id="connector2pad_16_" class="st0" cx="23" cy="14.4" r="2.2"/>
+			</g>
+		</g>
+	</g>
+</g>
+<g transform="translate(258.467,318.839)">
+	<g id="copper1_72_">
+		<g id="copper0_17_">
+			<circle id="connector0pin_55_" class="st0" cx="3.6" cy="8.2" r="2"/>
+			<circle id="connector1pin_40_" class="st0" cx="10.8" cy="8.2" r="2"/>
+			<circle id="connector2pin_16_" class="st0" cx="18" cy="8.2" r="2"/>
+		</g>
+	</g>
+</g>
+<g transform="translate(258.467,275.639)">
+	<g id="copper1_73_">
+		<g id="copper0_18_">
+			<circle id="connector0pin_56_" class="st0" cx="3.6" cy="8.2" r="2"/>
+			<circle id="connector1pin_41_" class="st0" cx="10.8" cy="8.2" r="2"/>
+			<circle id="connector2pin_17_" class="st0" cx="18" cy="8.2" r="2"/>
+		</g>
+	</g>
+</g>
+<g transform="translate(258.467,232.439)">
+	<g id="copper1_74_">
+		<g id="copper0_19_">
+			<circle id="connector0pin_57_" class="st0" cx="3.6" cy="8.2" r="2"/>
+			<circle id="connector1pin_42_" class="st0" cx="10.8" cy="8.2" r="2"/>
+			<circle id="connector2pin_18_" class="st0" cx="18" cy="8.2" r="2"/>
+		</g>
+	</g>
+</g>
+<g transform="translate(258.467,189.239)">
+	<g id="copper1_75_">
+		<g id="copper0_20_">
+			<circle id="connector0pin_58_" class="st0" cx="3.6" cy="8.2" r="2"/>
+			<circle id="connector1pin_43_" class="st0" cx="10.8" cy="8.2" r="2"/>
+			<circle id="connector2pin_19_" class="st0" cx="18" cy="8.2" r="2"/>
+		</g>
+	</g>
+</g>
+<g transform="translate(258.467,146.039)">
+	<g id="copper1_76_">
+		<g id="copper0_21_">
+			<circle id="connector0pin_59_" class="st0" cx="3.6" cy="8.2" r="2"/>
+			<circle id="connector1pin_44_" class="st0" cx="10.8" cy="8.2" r="2"/>
+			<circle id="connector2pin_20_" class="st0" cx="18" cy="8.2" r="2"/>
+		</g>
+	</g>
+</g>
+<g transform="translate(258.467,102.839)">
+	<g id="copper1_77_">
+		<g id="copper0_22_">
+			<circle id="connector0pin_60_" class="st0" cx="3.6" cy="8.2" r="2"/>
+			<circle id="connector1pin_45_" class="st0" cx="10.8" cy="8.2" r="2"/>
+			<circle id="connector2pin_21_" class="st0" cx="18" cy="8.2" r="2"/>
+		</g>
+	</g>
+</g>
+<g transform="translate(258.467,59.6394)">
+	<g id="copper1_78_">
+		<g id="copper0_23_">
+			<circle id="connector0pin_61_" class="st0" cx="3.6" cy="8.2" r="2"/>
+			<circle id="connector1pin_46_" class="st0" cx="10.8" cy="8.2" r="2"/>
+			<circle id="connector2pin_22_" class="st0" cx="18" cy="8.2" r="2"/>
+		</g>
+	</g>
+</g>
+<g transform="translate(258.467,16.4394)">
+	<g id="copper1_79_">
+		<g id="copper0_24_">
+			<circle id="connector0pin_62_" class="st0" cx="3.6" cy="8.2" r="2"/>
+			<circle id="connector1pin_47_" class="st0" cx="10.8" cy="8.2" r="2"/>
+			<circle id="connector2pin_23_" class="st0" cx="18" cy="8.2" r="2"/>
+		</g>
+	</g>
+</g>
+<g transform="translate(299.867,369.887)">
+	<g transform="matrix(-1,0,0,-1,0,0)">
+		<g id="copper1_80_">
+			<g id="copper0_25_">
+				<circle id="connector0pin_63_" class="st0" cx="39.2" cy="13" r="4.3"/>
+				<circle id="connector1pin_48_" class="st0" cx="22" cy="13" r="4.3"/>
+				<circle id="connector2pin_24_" class="st0" cx="30.6" cy="26.6" r="4.3"/>
+			</g>
+		</g>
+	</g>
+</g>
+<g transform="translate(61.043,174.947)">
+	<g id="copper1_81_">
+		<g id="copper0_26_">
+			<circle id="connector0pin_64_" class="st0" cx="3" cy="3.6" r="2.2"/>
+			<circle id="connector1pin_49_" class="st0" cx="24.5" cy="3.6" r="2.2"/>
+		</g>
+	</g>
+</g>
+<g transform="translate(34.6902,182.147)">
+	<g transform="matrix(-1,0,0,-1,0,0)">
+		<g id="copper1_82_">
+			<g id="copper0_27_">
+				<circle id="connector0pin_65_" class="st0" cx="3" cy="3.6" r="2.2"/>
+				<circle id="connector1pin_50_" class="st0" cx="24.5" cy="3.6" r="2.2"/>
+			</g>
+		</g>
+	</g>
+</g>
+<g transform="translate(34.6902,196.547)">
+	<g transform="matrix(-1,0,0,-1,0,0)">
+		<g id="copper1_83_">
+			<g id="copper0_28_">
+				<circle id="connector0pin_66_" class="st0" cx="3" cy="3.6" r="2.2"/>
+				<circle id="connector1pin_51_" class="st0" cx="24.5" cy="3.6" r="2.2"/>
+			</g>
+		</g>
+	</g>
+</g>
+<g transform="translate(34.6902,174.947)">
+	<g transform="matrix(-1,0,0,-1,0,0)">
+		<g id="copper1_84_">
+			<g id="copper0_29_">
+				<circle id="connector0pin_67_" class="st0" cx="3" cy="3.6" r="2.2"/>
+				<circle id="connector1pin_52_" class="st0" cx="24.5" cy="3.6" r="2.2"/>
+			</g>
+		</g>
+	</g>
+</g>
+<g transform="translate(34.6902,189.347)">
+	<g transform="matrix(-1,0,0,-1,0,0)">
+		<g id="copper1_85_">
+			<g id="copper0_30_">
+				<circle id="connector0pin_68_" class="st0" cx="3" cy="3.6" r="2.2"/>
+				<circle id="connector1pin_53_" class="st0" cx="24.5" cy="3.6" r="2.2"/>
+			</g>
+		</g>
+	</g>
+</g>
+<g transform="translate(61.043,189.347)">
+	<g id="copper1_86_">
+		<g id="copper0_31_">
+			<circle id="connector0pin_69_" class="st0" cx="3" cy="3.6" r="2.2"/>
+			<circle id="connector1pin_54_" class="st0" cx="24.5" cy="3.6" r="2.2"/>
+		</g>
+	</g>
+</g>
+<g transform="translate(61.043,167.747)">
+	<g id="copper1_87_">
+		<g id="copper0_32_">
+			<circle id="connector0pin_70_" class="st0" cx="3" cy="3.6" r="2.2"/>
+			<circle id="connector1pin_55_" class="st0" cx="24.5" cy="3.6" r="2.2"/>
+		</g>
+	</g>
+</g>
+<g transform="translate(61.043,182.147)">
+	<g id="copper1_88_">
+		<g id="copper0_33_">
+			<circle id="connector0pin_71_" class="st0" cx="3" cy="3.6" r="2.2"/>
+			<circle id="connector1pin_56_" class="st0" cx="24.5" cy="3.6" r="2.2"/>
+		</g>
+	</g>
+</g>
+<g transform="translate(147.587,174.947)">
+	<g id="copper1_89_">
+		<g id="copper0_34_">
+			<circle id="connector0pin_72_" class="st0" cx="3" cy="3.6" r="2.2"/>
+			<circle id="connector1pin_57_" class="st0" cx="24.5" cy="3.6" r="2.2"/>
+		</g>
+	</g>
+</g>
+<g transform="translate(121.234,182.147)">
+	<g transform="matrix(-1,0,0,-1,0,0)">
+		<g id="copper1_90_">
+			<g id="copper0_35_">
+				<circle id="connector0pin_73_" class="st0" cx="3" cy="3.6" r="2.2"/>
+				<circle id="connector1pin_58_" class="st0" cx="24.5" cy="3.6" r="2.2"/>
+			</g>
+		</g>
+	</g>
+</g>
+<g transform="translate(121.234,196.547)">
+	<g transform="matrix(-1,0,0,-1,0,0)">
+		<g id="copper1_91_">
+			<g id="copper0_36_">
+				<circle id="connector0pin_74_" class="st0" cx="3" cy="3.6" r="2.2"/>
+				<circle id="connector1pin_59_" class="st0" cx="24.5" cy="3.6" r="2.2"/>
+			</g>
+		</g>
+	</g>
+</g>
+<g transform="translate(121.234,174.947)">
+	<g transform="matrix(-1,0,0,-1,0,0)">
+		<g id="copper1_92_">
+			<g id="copper0_37_">
+				<circle id="connector0pin_75_" class="st0" cx="3" cy="3.6" r="2.2"/>
+				<circle id="connector1pin_60_" class="st0" cx="24.5" cy="3.6" r="2.2"/>
+			</g>
+		</g>
+	</g>
+</g>
+<g transform="translate(121.234,189.347)">
+	<g transform="matrix(-1,0,0,-1,0,0)">
+		<g id="copper1_93_">
+			<g id="copper0_38_">
+				<circle id="connector0pin_76_" class="st0" cx="3" cy="3.6" r="2.2"/>
+				<circle id="connector1pin_61_" class="st0" cx="24.5" cy="3.6" r="2.2"/>
+			</g>
+		</g>
+	</g>
+</g>
+<g transform="translate(147.587,189.347)">
+	<g id="copper1_94_">
+		<g id="copper0_39_">
+			<circle id="connector0pin_77_" class="st0" cx="3" cy="3.6" r="2.2"/>
+			<circle id="connector1pin_62_" class="st0" cx="24.5" cy="3.6" r="2.2"/>
+		</g>
+	</g>
+</g>
+<g transform="translate(147.587,167.747)">
+	<g id="copper1_95_">
+		<g id="copper0_40_">
+			<circle id="connector0pin_78_" class="st0" cx="3" cy="3.6" r="2.2"/>
+			<circle id="connector1pin_63_" class="st0" cx="24.5" cy="3.6" r="2.2"/>
+		</g>
+	</g>
+</g>
+<g transform="translate(147.587,182.147)">
+	<g id="copper1_96_">
+		<g id="copper0_41_">
+			<circle id="connector0pin_79_" class="st0" cx="3" cy="3.6" r="2.2"/>
+			<circle id="connector1pin_64_" class="st0" cx="24.5" cy="3.6" r="2.2"/>
+		</g>
+	</g>
+</g>
+<g transform="translate(61.043,122.747)">
+	<g id="copper1_97_">
+		<g id="copper0_42_">
+			<circle id="connector0pin_80_" class="st0" cx="3" cy="3.6" r="2.2"/>
+			<circle id="connector1pin_65_" class="st0" cx="24.5" cy="3.6" r="2.2"/>
+		</g>
+	</g>
+</g>
+<g transform="translate(34.6902,129.947)">
+	<g transform="matrix(-1,0,0,-1,0,0)">
+		<g id="copper1_98_">
+			<g id="copper0_43_">
+				<circle id="connector0pin_81_" class="st0" cx="3" cy="3.6" r="2.2"/>
+				<circle id="connector1pin_66_" class="st0" cx="24.5" cy="3.6" r="2.2"/>
+			</g>
+		</g>
+	</g>
+</g>
+<g transform="translate(34.6902,144.347)">
+	<g transform="matrix(-1,0,0,-1,0,0)">
+		<g id="copper1_99_">
+			<g id="copper0_44_">
+				<circle id="connector0pin_82_" class="st0" cx="3" cy="3.6" r="2.2"/>
+				<circle id="connector1pin_67_" class="st0" cx="24.5" cy="3.6" r="2.2"/>
+			</g>
+		</g>
+	</g>
+</g>
+<g transform="translate(34.6902,122.747)">
+	<g transform="matrix(-1,0,0,-1,0,0)">
+		<g id="copper1_100_">
+			<g id="copper0_45_">
+				<circle id="connector0pin_83_" class="st0" cx="3" cy="3.6" r="2.2"/>
+				<circle id="connector1pin_68_" class="st0" cx="24.5" cy="3.6" r="2.2"/>
+			</g>
+		</g>
+	</g>
+</g>
+<g transform="translate(34.6902,137.147)">
+	<g transform="matrix(-1,0,0,-1,0,0)">
+		<g id="copper1_101_">
+			<g id="copper0_46_">
+				<circle id="connector0pin_84_" class="st0" cx="3" cy="3.6" r="2.2"/>
+				<circle id="connector1pin_69_" class="st0" cx="24.5" cy="3.6" r="2.2"/>
+			</g>
+		</g>
+	</g>
+</g>
+<g transform="translate(61.043,137.147)">
+	<g id="copper1_102_">
+		<g id="copper0_47_">
+			<circle id="connector0pin_85_" class="st0" cx="3" cy="3.6" r="2.2"/>
+			<circle id="connector1pin_70_" class="st0" cx="24.5" cy="3.6" r="2.2"/>
+		</g>
+	</g>
+</g>
+<g transform="translate(61.043,115.547)">
+	<g id="copper1_103_">
+		<g id="copper0_48_">
+			<circle id="connector0pin_86_" class="st0" cx="3" cy="3.6" r="2.2"/>
+			<circle id="connector1pin_71_" class="st0" cx="24.5" cy="3.6" r="2.2"/>
+		</g>
+	</g>
+</g>
+<g transform="translate(61.043,129.947)">
+	<g id="copper1_104_">
+		<g id="copper0_49_">
+			<circle id="connector0pin_87_" class="st0" cx="3" cy="3.6" r="2.2"/>
+			<circle id="connector1pin_72_" class="st0" cx="24.5" cy="3.6" r="2.2"/>
+		</g>
+	</g>
+</g>
+<g transform="translate(147.444,122.747)">
+	<g id="copper1_105_">
+		<g id="copper0_50_">
+			<circle id="connector0pin_88_" class="st0" cx="3" cy="3.6" r="2.2"/>
+			<circle id="connector1pin_73_" class="st0" cx="24.5" cy="3.6" r="2.2"/>
+		</g>
+	</g>
+</g>
+<g transform="translate(121.091,129.947)">
+	<g transform="matrix(-1,0,0,-1,0,0)">
+		<g id="copper1_106_">
+			<g id="copper0_51_">
+				<circle id="connector0pin_89_" class="st0" cx="3" cy="3.6" r="2.2"/>
+				<circle id="connector1pin_74_" class="st0" cx="24.5" cy="3.6" r="2.2"/>
+			</g>
+		</g>
+	</g>
+</g>
+<g transform="translate(121.091,144.347)">
+	<g transform="matrix(-1,0,0,-1,0,0)">
+		<g id="copper1_107_">
+			<g id="copper0_52_">
+				<circle id="connector0pin_90_" class="st0" cx="3" cy="3.6" r="2.2"/>
+				<circle id="connector1pin_75_" class="st0" cx="24.5" cy="3.6" r="2.2"/>
+			</g>
+		</g>
+	</g>
+</g>
+<g transform="translate(121.091,122.747)">
+	<g transform="matrix(-1,0,0,-1,0,0)">
+		<g id="copper1_108_">
+			<g id="copper0_53_">
+				<circle id="connector0pin_91_" class="st0" cx="3" cy="3.6" r="2.2"/>
+				<circle id="connector1pin_76_" class="st0" cx="24.5" cy="3.6" r="2.2"/>
+			</g>
+		</g>
+	</g>
+</g>
+<g transform="translate(121.091,137.147)">
+	<g transform="matrix(-1,0,0,-1,0,0)">
+		<g id="copper1_109_">
+			<g id="copper0_54_">
+				<circle id="connector0pin_92_" class="st0" cx="3" cy="3.6" r="2.2"/>
+				<circle id="connector1pin_77_" class="st0" cx="24.5" cy="3.6" r="2.2"/>
+			</g>
+		</g>
+	</g>
+</g>
+<g transform="translate(147.444,137.147)">
+	<g id="copper1_110_">
+		<g id="copper0_55_">
+			<circle id="connector0pin_93_" class="st0" cx="3" cy="3.6" r="2.2"/>
+			<circle id="connector1pin_78_" class="st0" cx="24.5" cy="3.6" r="2.2"/>
+		</g>
+	</g>
+</g>
+<g transform="translate(147.444,115.547)">
+	<g id="copper1_111_">
+		<g id="copper0_56_">
+			<circle id="connector0pin_94_" class="st0" cx="3" cy="3.6" r="2.2"/>
+			<circle id="connector1pin_79_" class="st0" cx="24.5" cy="3.6" r="2.2"/>
+		</g>
+	</g>
+</g>
+<g transform="translate(147.444,129.947)">
+	<g id="copper1_112_">
+		<g id="copper0_57_">
+			<circle id="connector0pin_95_" class="st0" cx="3" cy="3.6" r="2.2"/>
+			<circle id="connector1pin_80_" class="st0" cx="24.5" cy="3.6" r="2.2"/>
+		</g>
+	</g>
+</g>
+<g transform="translate(147.444,71.4474)">
+	<g id="copper1_113_">
+		<g id="copper0_58_">
+			<circle id="connector0pin_96_" class="st0" cx="3" cy="3.6" r="2.2"/>
+			<circle id="connector1pin_81_" class="st0" cx="24.5" cy="3.6" r="2.2"/>
+		</g>
+	</g>
+</g>
+<g transform="translate(121.091,78.6474)">
+	<g transform="matrix(-1,0,0,-1,0,0)">
+		<g id="copper1_114_">
+			<g id="copper0_59_">
+				<circle id="connector0pin_97_" class="st0" cx="3" cy="3.6" r="2.2"/>
+				<circle id="connector1pin_82_" class="st0" cx="24.5" cy="3.6" r="2.2"/>
+			</g>
+		</g>
+	</g>
+</g>
+<g transform="translate(121.091,93.0474)">
+	<g transform="matrix(-1,0,0,-1,0,0)">
+		<g id="copper1_115_">
+			<g id="copper0_60_">
+				<circle id="connector0pin_98_" class="st0" cx="3" cy="3.6" r="2.2"/>
+				<circle id="connector1pin_83_" class="st0" cx="24.5" cy="3.6" r="2.2"/>
+			</g>
+		</g>
+	</g>
+</g>
+<g transform="translate(121.091,71.4474)">
+	<g transform="matrix(-1,0,0,-1,0,0)">
+		<g id="copper1_116_">
+			<g id="copper0_61_">
+				<circle id="connector0pin_99_" class="st0" cx="3" cy="3.6" r="2.2"/>
+				<circle id="connector1pin_84_" class="st0" cx="24.5" cy="3.6" r="2.2"/>
+			</g>
+		</g>
+	</g>
+</g>
+<g transform="translate(121.091,85.8474)">
+	<g transform="matrix(-1,0,0,-1,0,0)">
+		<g id="copper1_117_">
+			<g id="copper0_62_">
+				<circle id="connector0pin_100_" class="st0" cx="3" cy="3.6" r="2.2"/>
+				<circle id="connector1pin_85_" class="st0" cx="24.5" cy="3.6" r="2.2"/>
+			</g>
+		</g>
+	</g>
+</g>
+<g transform="translate(147.444,85.8474)">
+	<g id="copper1_118_">
+		<g id="copper0_63_">
+			<circle id="connector0pin_101_" class="st0" cx="3" cy="3.6" r="2.2"/>
+			<circle id="connector1pin_86_" class="st0" cx="24.5" cy="3.6" r="2.2"/>
+		</g>
+	</g>
+</g>
+<g transform="translate(147.444,64.2474)">
+	<g id="copper1_119_">
+		<g id="copper0_64_">
+			<circle id="connector0pin_102_" class="st0" cx="3" cy="3.6" r="2.2"/>
+			<circle id="connector1pin_87_" class="st0" cx="24.5" cy="3.6" r="2.2"/>
+		</g>
+	</g>
+</g>
+<g transform="translate(147.444,78.6474)">
+	<g id="copper1_120_">
+		<g id="copper0_65_">
+			<circle id="connector0pin_103_" class="st0" cx="3" cy="3.6" r="2.2"/>
+			<circle id="connector1pin_88_" class="st0" cx="24.5" cy="3.6" r="2.2"/>
+		</g>
+	</g>
+</g>
+<g transform="translate(61.0438,71.4474)">
+	<g id="copper1_121_">
+		<g id="copper0_66_">
+			<circle id="connector0pin_104_" class="st0" cx="3" cy="3.6" r="2.2"/>
+			<circle id="connector1pin_89_" class="st0" cx="24.5" cy="3.6" r="2.2"/>
+		</g>
+	</g>
+</g>
+<g transform="translate(34.691,78.6474)">
+	<g transform="matrix(-1,0,0,-1,0,0)">
+		<g id="copper1_122_">
+			<g id="copper0_67_">
+				<circle id="connector0pin_105_" class="st0" cx="3" cy="3.6" r="2.2"/>
+				<circle id="connector1pin_90_" class="st0" cx="24.5" cy="3.6" r="2.2"/>
+			</g>
+		</g>
+	</g>
+</g>
+<g transform="translate(34.691,93.0474)">
+	<g transform="matrix(-1,0,0,-1,0,0)">
+		<g id="copper1_123_">
+			<g id="copper0_68_">
+				<circle id="connector0pin_106_" class="st0" cx="3" cy="3.6" r="2.2"/>
+				<circle id="connector1pin_91_" class="st0" cx="24.5" cy="3.6" r="2.2"/>
+			</g>
+		</g>
+	</g>
+</g>
+<g transform="translate(34.691,71.4474)">
+	<g transform="matrix(-1,0,0,-1,0,0)">
+		<g id="copper1_124_">
+			<g id="copper0_69_">
+				<circle id="connector0pin_107_" class="st0" cx="3" cy="3.6" r="2.2"/>
+				<circle id="connector1pin_92_" class="st0" cx="24.5" cy="3.6" r="2.2"/>
+			</g>
+		</g>
+	</g>
+</g>
+<g transform="translate(34.691,85.8474)">
+	<g transform="matrix(-1,0,0,-1,0,0)">
+		<g id="copper1_125_">
+			<g id="copper0_70_">
+				<circle id="connector0pin_108_" class="st0" cx="3" cy="3.6" r="2.2"/>
+				<circle id="connector1pin_93_" class="st0" cx="24.5" cy="3.6" r="2.2"/>
+			</g>
+		</g>
+	</g>
+</g>
+<g transform="translate(61.0438,85.8474)">
+	<g id="copper1_126_">
+		<g id="copper0_71_">
+			<circle id="connector0pin_109_" class="st0" cx="3" cy="3.6" r="2.2"/>
+			<circle id="connector1pin_94_" class="st0" cx="24.5" cy="3.6" r="2.2"/>
+		</g>
+	</g>
+</g>
+<g transform="translate(61.0438,64.2474)">
+	<g id="copper1_127_">
+		<g id="copper0_72_">
+			<circle id="connector0pin_110_" class="st0" cx="3" cy="3.6" r="2.2"/>
+			<circle id="connector1pin_95_" class="st0" cx="24.5" cy="3.6" r="2.2"/>
+		</g>
+	</g>
+</g>
+<g transform="translate(61.0438,78.6474)">
+	<g id="copper1_128_">
+		<g id="copper0_73_">
+			<circle id="connector0pin_111_" class="st0" cx="3" cy="3.6" r="2.2"/>
+			<circle id="connector1pin_96_" class="st0" cx="24.5" cy="3.6" r="2.2"/>
+		</g>
+	</g>
+</g>
+<g transform="translate(147.587,21.0474)">
+	<g id="copper1_129_">
+		<g id="copper0_74_">
+			<circle id="connector0pin_112_" class="st0" cx="3" cy="3.6" r="2.2"/>
+			<circle id="connector1pin_97_" class="st0" cx="24.5" cy="3.6" r="2.2"/>
+		</g>
+	</g>
+</g>
+<g transform="translate(121.234,28.2474)">
+	<g transform="matrix(-1,0,0,-1,0,0)">
+		<g id="copper1_130_">
+			<g id="copper0_75_">
+				<circle id="connector0pin_113_" class="st0" cx="3" cy="3.6" r="2.2"/>
+				<circle id="connector1pin_98_" class="st0" cx="24.5" cy="3.6" r="2.2"/>
+			</g>
+		</g>
+	</g>
+</g>
+<g transform="translate(121.234,42.6474)">
+	<g transform="matrix(-1,0,0,-1,0,0)">
+		<g id="copper1_131_">
+			<g id="copper0_76_">
+				<circle id="connector0pin_114_" class="st0" cx="3" cy="3.6" r="2.2"/>
+				<circle id="connector1pin_99_" class="st0" cx="24.5" cy="3.6" r="2.2"/>
+			</g>
+		</g>
+	</g>
+</g>
+<g transform="translate(121.234,21.0474)">
+	<g transform="matrix(-1,0,0,-1,0,0)">
+		<g id="copper1_132_">
+			<g id="copper0_77_">
+				<circle id="connector0pin_115_" class="st0" cx="3" cy="3.6" r="2.2"/>
+				<circle id="connector1pin_100_" class="st0" cx="24.5" cy="3.6" r="2.2"/>
+			</g>
+		</g>
+	</g>
+</g>
+<g transform="translate(121.234,35.4474)">
+	<g transform="matrix(-1,0,0,-1,0,0)">
+		<g id="copper1_133_">
+			<g id="copper0_78_">
+				<circle id="connector0pin_116_" class="st0" cx="3" cy="3.6" r="2.2"/>
+				<circle id="connector1pin_101_" class="st0" cx="24.5" cy="3.6" r="2.2"/>
+			</g>
+		</g>
+	</g>
+</g>
+<g transform="translate(147.587,35.4474)">
+	<g id="copper1_134_">
+		<g id="copper0_79_">
+			<circle id="connector0pin_117_" class="st0" cx="3" cy="3.6" r="2.2"/>
+			<circle id="connector1pin_102_" class="st0" cx="24.5" cy="3.6" r="2.2"/>
+		</g>
+	</g>
+</g>
+<g transform="translate(147.587,13.8474)">
+	<g id="copper1_135_">
+		<g id="copper0_80_">
+			<circle id="connector0pin_118_" class="st0" cx="3" cy="3.6" r="2.2"/>
+			<circle id="connector1pin_103_" class="st0" cx="24.5" cy="3.6" r="2.2"/>
+		</g>
+	</g>
+</g>
+<g transform="translate(147.587,28.2474)">
+	<g id="copper1_136_">
+		<g id="copper0_81_">
+			<circle id="connector0pin_119_" class="st0" cx="3" cy="3.6" r="2.2"/>
+			<circle id="connector1pin_104_" class="st0" cx="24.5" cy="3.6" r="2.2"/>
+		</g>
+	</g>
+</g>
+<g transform="translate(61.043,13.8474)">
+	<g id="copper1_137_">
+		<g id="copper0_82_">
+			<circle id="connector0pin_120_" class="st0" cx="3" cy="3.6" r="2.2"/>
+			<circle id="connector1pin_105_" class="st0" cx="24.5" cy="3.6" r="2.2"/>
+		</g>
+	</g>
+</g>
+<g transform="translate(34.691,28.2474)">
+	<g transform="matrix(-1,0,0,-1,0,0)">
+		<g id="copper1_138_">
+			<g id="copper0_83_">
+				<circle id="connector0pin_121_" class="st0" cx="3" cy="3.6" r="2.2"/>
+				<circle id="connector1pin_106_" class="st0" cx="24.5" cy="3.6" r="2.2"/>
+			</g>
+		</g>
+	</g>
+</g>
+<g transform="translate(34.691,21.0474)">
+	<g transform="matrix(-1,0,0,-1,0,0)">
+		<g id="copper1_139_">
+			<g id="copper0_84_">
+				<circle id="connector0pin_122_" class="st0" cx="3" cy="3.6" r="2.2"/>
+				<circle id="connector1pin_107_" class="st0" cx="24.5" cy="3.6" r="2.2"/>
+			</g>
+		</g>
+	</g>
+</g>
+<g transform="translate(34.691,35.4474)">
+	<g transform="matrix(-1,0,0,-1,0,0)">
+		<g id="copper1_140_">
+			<g id="copper0_85_">
+				<circle id="connector0pin_123_" class="st0" cx="3" cy="3.6" r="2.2"/>
+				<circle id="connector1pin_108_" class="st0" cx="24.5" cy="3.6" r="2.2"/>
+			</g>
+		</g>
+	</g>
+</g>
+<g transform="translate(34.691,42.6474)">
+	<g transform="matrix(-1,0,0,-1,0,0)">
+		<g id="copper1_141_">
+			<g id="copper0_86_">
+				<circle id="connector0pin_124_" class="st0" cx="3" cy="3.6" r="2.2"/>
+				<circle id="connector1pin_109_" class="st0" cx="24.5" cy="3.6" r="2.2"/>
+			</g>
+		</g>
+	</g>
+</g>
+<g transform="translate(61.043,35.4474)">
+	<g id="copper1_142_">
+		<g id="copper0_87_">
+			<circle id="connector0pin_125_" class="st0" cx="3" cy="3.6" r="2.2"/>
+			<circle id="connector1pin_110_" class="st0" cx="24.5" cy="3.6" r="2.2"/>
+		</g>
+	</g>
+</g>
+<g transform="translate(61.043,28.2474)">
+	<g id="copper1_143_">
+		<g id="copper0_88_">
+			<circle id="connector0pin_126_" class="st0" cx="3" cy="3.6" r="2.2"/>
+			<circle id="connector1pin_111_" class="st0" cx="24.5" cy="3.6" r="2.2"/>
+		</g>
+	</g>
+</g>
+<g transform="translate(61.043,21.0474)">
+	<g id="copper1_144_">
+		<g id="copper0_89_">
+			<circle id="connector0pin_127_" class="st0" cx="3" cy="3.6" r="2.2"/>
+			<circle id="connector1pin_112_" class="st0" cx="24.5" cy="3.6" r="2.2"/>
+		</g>
+	</g>
+</g>
+<g transform="translate(199.885,306.199)">
+	<g id="copper1_145_">
+		<circle id="connector0pin_128_" class="st0" cx="4.3" cy="4.3" r="2"/>
+	</g>
+</g>
+<g transform="translate(134.452,264.232)">
+	<g id="copper1_146_">
+		<circle id="connector0pin_129_" class="st0" cx="4.3" cy="4.3" r="2"/>
+	</g>
+</g>
+<g transform="translate(207.352,254.332)">
+	<g id="copper1_147_">
+		<circle id="connector0pin_130_" class="st0" cx="4.3" cy="4.3" r="2"/>
+	</g>
+</g>
+<g transform="translate(22.8518,347.032)">
+	<g id="copper1_148_">
+		<circle id="connector0pin_131_" class="st0" cx="4.3" cy="4.3" r="2"/>
+	</g>
+</g>
+<g transform="translate(250.552,396.532)">
+	<g id="copper1_149_">
+		<circle id="connector0pin_132_" class="st0" cx="4.3" cy="4.3" r="2"/>
+	</g>
+</g>
+<g transform="translate(223.552,353.332)">
+	<g id="copper1_150_">
+		<circle id="connector0pin_133_" class="st0" cx="4.3" cy="4.3" r="2"/>
+	</g>
+</g>
+<g transform="translate(196.552,358.732)">
+	<g id="copper1_151_">
+		<circle id="connector0pin_134_" class="st0" cx="4.3" cy="4.3" r="2"/>
+	</g>
+</g>
+<g transform="translate(146.152,378.532)">
+	<g id="copper1_152_">
+		<circle id="connector0pin_135_" class="st0" cx="4.3" cy="4.3" r="2"/>
+	</g>
+</g>
+<g transform="translate(170.452,383.032)">
+	<g id="copper1_153_">
+		<circle id="connector0pin_136_" class="st0" cx="4.3" cy="4.3" r="2"/>
+	</g>
+</g>
+<g transform="translate(38.1518,398.332)">
+	<g id="copper1_154_">
+		<circle id="connector0pin_137_" class="st0" cx="4.3" cy="4.3" r="2"/>
+	</g>
+</g>
+<g transform="translate(68.7518,409.132)">
+	<g id="copper1_155_">
+		<circle id="connector0pin_138_" class="st0" cx="4.3" cy="4.3" r="2"/>
+	</g>
+</g>
+<g transform="translate(16.5518,392.932)">
+	<g id="copper1_156_">
+		<circle id="connector0pin_139_" class="st0" cx="4.3" cy="4.3" r="2"/>
+	</g>
+</g>
+<g transform="translate(11.1518,398.332)">
+	<g id="copper1_157_">
+		<circle id="connector0pin_140_" class="st0" cx="4.3" cy="4.3" r="2"/>
+	</g>
+</g>
+<g transform="translate(3.95177,403.732)">
+	<g id="copper1_158_">
+		<circle id="connector0pin_141_" class="st0" cx="4.3" cy="4.3" r="2"/>
+	</g>
+</g>
+<g transform="translate(151.552,347.932)">
+	<g id="copper1_159_">
+		<circle id="connector0pin_142_" class="st0" cx="4.3" cy="4.3" r="2"/>
+	</g>
+</g>
+<g transform="translate(185.752,34.7318)">
+	<g id="copper1_160_">
+		<circle id="connector0pin_143_" class="st0" cx="4.3" cy="4.3" r="2"/>
+	</g>
+</g>
+<g transform="translate(209.152,38.3318)">
+	<g id="copper1_161_">
+		<circle id="connector0pin_144_" class="st0" cx="4.3" cy="4.3" r="2"/>
+	</g>
+</g>
+<g transform="translate(185.752,81.5322)">
+	<g id="copper1_162_">
+		<circle id="connector0pin_145_" class="st0" cx="4.3" cy="4.3" r="2"/>
+	</g>
+</g>
+<g transform="translate(206.452,81.5322)">
+	<g id="copper1_163_">
+		<circle id="connector0pin_146_" class="st0" cx="4.3" cy="4.3" r="2"/>
+	</g>
+</g>
+<g transform="translate(207.352,124.732)">
+	<g id="copper1_164_">
+		<circle id="connector0pin_147_" class="st0" cx="4.3" cy="4.3" r="2"/>
+	</g>
+</g>
+<g transform="translate(185.752,124.732)">
+	<g id="copper1_165_">
+		<circle id="connector0pin_148_" class="st0" cx="4.3" cy="4.3" r="2"/>
+	</g>
+</g>
+<g transform="translate(207.352,324.532)">
+	<g id="copper1_166_">
+		<circle id="connector0pin_149_" class="st0" cx="4.3" cy="4.3" r="2"/>
+	</g>
+</g>
+<g transform="translate(167.752,340.732)">
+	<g id="copper1_167_">
+		<circle id="connector0pin_150_" class="st0" cx="4.3" cy="4.3" r="2"/>
+	</g>
+</g>
+<g transform="translate(182.152,319.132)">
+	<g id="copper1_168_">
+		<circle id="connector0pin_151_" class="st0" cx="4.3" cy="4.3" r="2"/>
+	</g>
+</g>
+<g transform="translate(189.352,311.932)">
+	<g id="copper1_169_">
+		<circle id="connector0pin_152_" class="st0" cx="4.3" cy="4.3" r="2"/>
+	</g>
+</g>
+<g transform="translate(176.752,326.332)">
+	<g id="copper1_170_">
+		<circle id="connector0pin_153_" class="st0" cx="4.3" cy="4.3" r="2"/>
+	</g>
+</g>
+<g transform="translate(171.352,333.532)">
+	<g id="copper1_171_">
+		<circle id="connector0pin_154_" class="st0" cx="4.3" cy="4.3" r="2"/>
+	</g>
+</g>
+<g transform="translate(182.418,300.332)">
+	<g id="copper1_172_">
+		<circle id="connector0pin_155_" class="st0" cx="4.3" cy="4.3" r="2"/>
+	</g>
+</g>
+<g transform="translate(175.485,293.399)">
+	<g id="copper1_173_">
+		<circle id="connector0pin_156_" class="st0" cx="4.3" cy="4.3" r="2"/>
+	</g>
+</g>
+<g transform="translate(170.085,285.732)">
+	<g id="copper1_174_">
+		<circle id="connector0pin_157_" class="st0" cx="4.3" cy="4.3" r="2"/>
+	</g>
+</g>
+<g transform="translate(164.152,278.599)">
+	<g id="copper1_175_">
+		<circle id="connector0pin_158_" class="st0" cx="4.3" cy="4.3" r="2"/>
+	</g>
+</g>
+<g transform="translate(159.485,271.532)">
+	<g id="copper1_176_">
+		<circle id="connector0pin_159_" class="st0" cx="4.3" cy="4.3" r="2"/>
+	</g>
+</g>
+</svg>
